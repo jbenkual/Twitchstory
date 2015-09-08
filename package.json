@@ -1,0 +1,16 @@
+{
+  "name": "twitchstory",
+  "version": "1.0.0",
+  "description": "Access history and data of twitch channels",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jbenkual",
+  "license": "LicenseRef-Private",
+  "dependencies": {
+    "chai": "^3.2.0",
+    "edit-google-spreadsheet": "^0.2.19"
+  }
+}
